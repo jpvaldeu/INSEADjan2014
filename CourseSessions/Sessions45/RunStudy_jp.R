@@ -1,4 +1,3 @@
-
 # Project Name: "Sessions 4-5 of INSEAD Big Data Analytics for Business Course: "Clustering and Segmentation"
 
 rm(list = ls( )) # clean up the workspace
